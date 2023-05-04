@@ -6,6 +6,7 @@ The most famous control system in the industry is the PID. PID combines three pr
   <img src="https://github.com/bsrahmat/itclab-03/blob/main/pid01.jpg" alt="" class="img-responsive" width="700">
 </p>
 
+In practice, control systems using PID controllers always require a plant. One of the plants we recommend is the Internet-Based Temperature Control Lab (iTCLab) plant.
 
 
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
