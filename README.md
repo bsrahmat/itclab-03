@@ -3,7 +3,7 @@
 The most famous control system in the industry is the PID. PID combines three proportional, integral, and derivative control actions. Each of these control actions has certain advantages, where the proportional control action has the advantage of a very fast rise time, the integral control action has the advantage of reducing errors, and the derivative control action has the advantage of reducing errors or reducing overshoot. The purpose of combining these three control actions is to produce output with fast rise time and small errors.
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-03/blob/main/pid01.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 
