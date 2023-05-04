@@ -1,5 +1,13 @@
 # iTCLab-03 - PID Control System Introduction
 
+The most famous control system in the industry is the PID. PID combines three proportional, integral, and derivative control actions. Each of these control actions has certain advantages, where the proportional control action has the advantage of a very fast rise time, the integral control action has the advantage of reducing errors, and the derivative control action has the advantage of reducing errors or reducing overshoot. The purpose of combining these three control actions is to produce output with fast rise time and small errors.
+
+<p align="center">
+  <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
+</p>
+
+
+
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
 
 About these iTCLab kits :
