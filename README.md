@@ -6,6 +6,11 @@ The most famous control system in the industry is the PID. PID combines three pr
   <img src="https://github.com/bsrahmat/itclab-03/blob/main/pid01.jpg" alt="" class="img-responsive" width="700">
 </p>
 
+To easily understand how the PID control system works, you can read the following tutorial (Indonesian version): https://www.academia.edu/101176526.
+
+With the simulation program using Python Jupyter Notebook, the following program can be used: https://github.com/bsrahmat/itclab-03/blob/main/pid_widget.ipynb.
+
+
 In practice, control systems using PID controllers always require a plant. One of the plants we recommend is the Internet-Based Temperature Control Lab (iTCLab) plant.
 
 
