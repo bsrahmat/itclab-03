@@ -515,14 +515,14 @@ a.close()
 </br>
 
 
-Please run it in the Jupyter notebook environment, with the iTCLab Kit connected to a PC or Laptop (with the arduino_python.ino program already embedded in it). Then the results should be as shown in Figure 2 and Figure 3.
+Please run it in the Jupyter notebook environment, with the iTCLab Kit connected to a PC or Laptop (with the arduino_python.ino program already embedded in it). Then the results should be as shown in the following Figures.
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/itclab-03/blob/main/python_test1,jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-03/blob/main/python_test1.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/itclab-03/blob/main/python_test2,jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-03/blob/main/python_test2.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 <br>
