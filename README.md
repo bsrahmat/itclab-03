@@ -1,4 +1,4 @@
-![image](https://github.com/bsrahmat/itclab-03/assets/48795125/86c828ea-bc47-4d48-a947-1b76ecaa05aa)# Python Testing
+# Python Testing
 
 Python _Testing is a simple program to test the iTCLab Kit using Python. Before the Python program is run, of course, the appropriate Arduino program must have been embedded in the iTCLab Kit.
 <br>
