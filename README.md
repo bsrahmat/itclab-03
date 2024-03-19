@@ -101,7 +101,8 @@ Python _Testing is a simple program to test the iTCLab Kit using Python. Before 
 1.	Upload the arduino_python.ino program to the iTCLab Kit
 2.	Put the itclab.py file in the same folder as the python_testing.ipynb program
 3.	Run the python_testing.ipynb program via Jupyter Notebook
-
+<br>
+</br>
 
 ### Here is the arduino_python.ino coding script:
 
