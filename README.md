@@ -1,4 +1,4 @@
-# Python Testing
+![image](https://github.com/bsrahmat/itclab-03/assets/48795125/86c828ea-bc47-4d48-a947-1b76ecaa05aa)# Python Testing
 
 Python _Testing is a simple program to test the iTCLab Kit using Python. Before the Python program is run, of course, the appropriate Arduino program must have been embedded in the iTCLab Kit.
 <br>
@@ -517,7 +517,11 @@ a.close()
 Please run it in the Jupyter notebook environment, with the iTCLab Kit connected to a PC or Laptop (with the arduino_python.ino program already embedded in it). Then the results should be as shown in Figure 2 and Figure 3.
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/itclab-02/blob/main/PWM2.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-03/blob/main/python_test1,jpg" alt="" class="img-responsive" width="700">
+</p>
+
+<p align="center">
+  <img src="https://github.com/bsrahmat/itclab-03/blob/main/python_test2,jpg" alt="" class="img-responsive" width="700">
 </p>
 
 <br>
