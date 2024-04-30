@@ -85,7 +85,7 @@ Python _Testing is a simple program to test the iTCLab Kit using Python. Before 
 
 - <a href="https://github.com/bsrahmat/itclab-03/blob/main/itclab.py" target="_blank">itclab.py Program</a>
 
-- <a href="https://github.com/bsrahmat/itclab-02/blob/main/Python_Testing.pdf" target="_blank">Python_Testing.pdf Tutorial</a>
+- <a href="https://github.com/bsrahmat/itclab-03/blob/main/Python_Testing.pdf" target="_blank">Python_Testing.pdf Tutorial</a>
 
 
 ### Another alternative is to download the tutorial:
